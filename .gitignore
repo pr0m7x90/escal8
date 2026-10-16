@@ -1,0 +1,18 @@
+# Local scan output and diagnostic bundles
+*.log
+escal8-test-*.zip
+escal8-test-*/
+reports/
+report.txt
+out.json
+out.html
+
+# Local temporary workspaces
+.escal8-*
+.tmp/
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
